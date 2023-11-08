@@ -8,4 +8,4 @@ Besides having a bot, there might be a webapp for the same, where users can get 
 
 The proposed name for the bot will be __Majira__, which is a Swahili name translating to __'season'__.
 
-![Bot Profile](bot.jpeg)
+![Bot Profile](https://github.com/brian-mwangi-kamau/weather-bot-by-Brian/blob/main/Application/static/images/bot.jpeg)
